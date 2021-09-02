@@ -11,6 +11,7 @@ SP4C3 will achieve this mission by stimulating the continuous growth of its econ
 SP4C3 will combine the distributed storage system with AI cloud computing to build a safe and efficient new generation of distributed architecture that aggregates computing power and connects the financial and non-financial systems  
 
 Stay updated with this new exciting project following our official accounts.
+
 https://twitter.com/SP4C3blockchain
 https://www.reddit.com/user/Sp4c3_blockchain
 https://www.linkedin.com/company/sp4c3/
