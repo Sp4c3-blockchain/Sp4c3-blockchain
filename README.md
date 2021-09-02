@@ -13,6 +13,9 @@ SP4C3 will combine the distributed storage system with AI cloud computing to bui
 Stay updated with this new exciting project following our official accounts.
 
 https://twitter.com/SP4C3blockchain
+
 https://www.reddit.com/user/Sp4c3_blockchain
+
 https://www.linkedin.com/company/sp4c3/
+
 https://bitcointalk.org/index.php?action=profile;u=3373336;sa=showPosts
