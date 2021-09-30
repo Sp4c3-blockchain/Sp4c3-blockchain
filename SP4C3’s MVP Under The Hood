@@ -1,0 +1,26 @@
+In SP4C3 we are working on bringing decentralized computing and storage solutions for our clients, so together we could enrich blockchain technology and while doing that help our users to generate more value while spending less. In this overview, we would like to look at the main problems of storing and performing computations on different blockchains and propose our action plan to create better systems.
+
+No alt text provided for this image
+Common researchers’ problem while designing decentralized systems is blockchain trilemma - it is a concept coined by Vitalik Buterin that proposes a set of three main issues that developers encounter when building blockchains.
+
+Security - the way blockchain ensures that data on it is reliable and not faked, operates as expected, defends itself from attacks, bugs, and other unforeseen issues.
+
+Decentralization - the way blockchain does not rely on a central point of control or failure.
+
+Scalability - The ability of the system to increase its output according to inputs. For example, every time you make a transaction you need to send data around all nodes. If the network grows it becomes slower because of more data being sent around.
+
+
+
+Usually, creators are forced to sacrifice one 'aspect' for the sake of the other two. For example, Bitcoin was designed with security and decentralization as the main priorities that’s why it takes so long to complete transactions and transaction fees are high. Also, we noticed these problems with the current popular blockchains.
+
+
+
+Problems of storing large amounts of data on blockchains - 
+
+Expensive to store a lot of data, for example on the Ethereum main net it costs about 0.003 ETH to call the contract without adding any data, so that equates to about 0.035 ETH per KB ($0.076), or around $76,000 USD per GB of storage.
+Data immutability, while trying to solve the scalability problem and make more transactions per second a lot of blockchains ignore decentralization and run fewer nodes to minimize time to reach consensus and complete transactions.
+Hard to manage computations and storage space between nodes, all information can not be stored in all nodes and distributed efficiently.
+
+
+At SP4C3 we are developing an off-chain solution that would use bigger blockchains (ETH, XRP) for reaching a consensus this way making our blockchain scalable without sacrificing decentralization or security. While distributing storage and computation in a blind trust manner among miners’ nodes clusters there information and calculations would be used the most.
+
